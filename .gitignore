@@ -21,3 +21,5 @@ Thumbs.db
 # Ignore logs or temporary files
 *.log
 *.tmp
+
+dataset/
